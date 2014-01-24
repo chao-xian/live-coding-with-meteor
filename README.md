@@ -5,7 +5,7 @@ Using github diffs for live coding example of a simple meteor app
 
 ## Prep
 
-* Run hostname once on the wifi to get whatever DHCP set
+* Run hostname once on the wifi to get whatever DHCP set (remember to remove DNS override!)
 * run
 ```
 meteor create live-coding-with-meteor
